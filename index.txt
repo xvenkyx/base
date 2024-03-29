@@ -1,0 +1,9 @@
+backdate details :
+chat-app-backend : connected mongodb, routes-auth, controller-auth, model-user
+auth-app-frontend : routes(Browser Router, Routes, Route), pages(Link to), components(Header) 
+
+29/03/2024
+chat-app-backend : signup controller
+auth-app : added header component
+
+30/03/2024

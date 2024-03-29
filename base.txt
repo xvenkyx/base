@@ -1,1 +1,2 @@
 Gonna make the first try to find where the issue is.
+remote name should be 'origin'.
